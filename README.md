@@ -91,14 +91,15 @@ You can click the Preview link to take a look at your changes.
 
 ### IDE's and Build Tools
 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)
-![Apache Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Apache NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)](https://netbeans.apache.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)](https://gradle.org/)
+[![Apache Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge)](https://maven.apache.org/)
+
 
 
 
@@ -110,17 +111,19 @@ You can click the Preview link to take a look at your changes.
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Linux mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+
 
 ---
 
 ### Office Package
 
 
-![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=for-the-badge)
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
-![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=for-the-badge)
-![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge)
+[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+[![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+[![Microsoft Outlook Badge](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+
 
 
 
@@ -128,13 +131,14 @@ You can click the Preview link to take a look at your changes.
 
 ### My Skills
 
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
+[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=393665)](https://www.adobe.com/products/aftereffects.html)
+[![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=fff&style=for-the-badge)](https://www.adobe.com/creativecloud.html)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+
 
 
 ---
