@@ -49,7 +49,6 @@ You can click the Preview link to take a look at your changes.
 [![Nodemon](https://img.shields.io/badge/NODEMON-%23323330?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
 [![Mongoose Badge](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge)](https://mongoosejs.com/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-[![Google Apps Script Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=fff&style=for-the-badge)](https://developers.google.com/apps-script/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
@@ -84,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat)
 [![Termius Badge](https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=for-the-badge)](https://termius.com/)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)](https://www.postman.com/)
-
+[![Google Apps Script Badge](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=googleappsscript&logoColor=fff&style=for-the-badge)](https://developers.google.com/apps-script/)
 
 ---
 
