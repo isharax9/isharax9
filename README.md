@@ -47,6 +47,8 @@ You can click the Preview link to take a look at your changes.
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![DigitalOcean Badge](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
+[![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)](https://aws.amazon.com/s3/)
+
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
