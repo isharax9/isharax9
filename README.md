@@ -13,6 +13,18 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Love to Testing, Debugging & Optimizing | Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharax9&layout=compact&theme=dark)](https://github.com/isharax9) . [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&layout=compact&theme=dark)](https://github.com/isharax9)
+
+<div align="center">
+
+
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/isharax9)](https://badges.pufler.dev) .
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/isharax9)](https://github.com/isharax9) -->
+</div>
+
+
 # 💻 Tech Stack:
 
  **I put the link to every badges in here, so you can browse and learn about it.**
@@ -48,7 +60,6 @@ You can click the Preview link to take a look at your changes.
 [![Netlify](https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![DigitalOcean Badge](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
 [![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)](https://aws.amazon.com/s3/)
-
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
@@ -125,7 +136,9 @@ You can click the Preview link to take a look at your changes.
 ### My Other Badges & Social Links
 
 
-[![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141) 
+[![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141)
+[![](https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=45bf17&style=for-the-badge)](https://github.com/isharax9)
+
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
 [![Spotify-batch](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aclfdgel1ubi2fmatnhfx2pix)
