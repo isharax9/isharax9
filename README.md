@@ -125,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 ### My Other Badges & Social Links
 
 
-[![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141)  <img src="https://komarev.com/ghpvc/?username=isharax9&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
+[![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141) 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
 [![Spotify-batch](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aclfdgel1ubi2fmatnhfx2pix)
