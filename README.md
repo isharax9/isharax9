@@ -8,11 +8,16 @@ You can click the Preview link to take a look at your changes.
   <h4 align="center">an inspiring full-stack software engineer and CS enthusiast</h4>
 </div>
 
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge)](https://github.com/isharax9)
+
+</div>
+
 - 👀 I'm interested in native web application development and Flutter application development. 
 - 🌱 Currently learning Laravel framework.
 - 💞️ Love to Testing, Debugging & Optimizing | Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharax9&layout=compact&theme=dark)](https://github.com/isharax9) . [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&layout=compact&theme=dark)](https://github.com/isharax9)
@@ -137,7 +142,6 @@ You can click the Preview link to take a look at your changes.
 
 
 [![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141)
-[![](https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=45bf17&style=for-the-badge)](https://github.com/isharax9)
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
