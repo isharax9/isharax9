@@ -19,15 +19,15 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Love to Testing, Debugging & Optimizing | Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharax9&layout=compact&theme=dark)](https://github.com/isharax9) . [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&layout=compact&theme=dark)](https://github.com/isharax9) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isharax9&layout=compact&theme=dark)](https://github.com/isharax9) . [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&layout=compact&theme=dark)](https://github.com/isharax9)
-
-<div align="center">
+<!-- <div align="center">
 
 
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/isharax9)](https://badges.pufler.dev) .
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/isharax9)](https://github.com/isharax9) -->
-</div>
+[![Repos Badge](https://badges.pufler.dev/repos/isharax9)](https://badges.pufler.dev) .
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/isharax9)](https://github.com/isharax9)
+</div> -->
 
 
 # 💻 Tech Stack:
