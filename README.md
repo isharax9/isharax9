@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 - 👀 I'm interested in native web application development and Flutter application development. 
-- 🌱 Currently learning Laravel framework.
+- 🌱 Currently learning Docker.
 - 💞️ Love to Testing, Debugging & Optimizing | Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
