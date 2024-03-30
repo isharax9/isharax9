@@ -116,7 +116,7 @@ You can click the Preview link to take a look at your changes.
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)](https://www.postman.com/)
 [![Termius Badge](https://img.shields.io/badge/Termius-000?logo=termius&logoColor=fff&style=for-the-badge)](https://termius.com/)
 [![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
-
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 [![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)](https://gradle.org/)
