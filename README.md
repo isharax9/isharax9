@@ -154,4 +154,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/macstudyroom)
 
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=isharax9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&theme=dark&hide_border=false)<br/>
+
+
 ###### (badge stats are updating realtime)
