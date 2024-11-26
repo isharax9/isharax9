@@ -148,6 +148,7 @@ Web Weaver & Reliability Guardian!</h4>
 
 
 [![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=2e751e58353f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
@@ -161,6 +162,7 @@ Web Weaver & Reliability Guardian!</h4>
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)](https://tryhackme.com/p/macknight141)
 [![IMDb Badge](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000&style=for-the-badge)](https://www.imdb.com/user/ur120548152/?ref_=nv_usr_prof_2)
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/macstudyroom)
+
 
 
 ### 📊 GitHub Stats:
