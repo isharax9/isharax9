@@ -12,13 +12,16 @@ Web Weaver & Reliability Guardian!</h4>
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge)](https://github.com/isharax9)
+<a href="https://github.com/isharax9">
+  <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
+</a>
+
 
 </div>
 
 - 👀 I'm interested in native web application development, Flutter and React application development.
 - 🌱 Currently learning GitHub Actions
-- 💞️ Love to Testing, Debugging & Optimizing | Cyber Security Enthusiast
+- 💞️ Love to Testing, Debugging, Optimizing & Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
 <!-- 
