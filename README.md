@@ -20,7 +20,7 @@ Web Weaver & Reliability Guardian!</h4>
 </div>
 
 - 👀 I'm interested in native web application development, Flutter and React application development.
-- 🌱 Currently learning GitHub Actions
+- 🌱 Currently learning Android
 - 💞️ Love to Testing, Debugging, Optimizing & Cyber Security Enthusiast
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
@@ -47,6 +47,7 @@ Web Weaver & Reliability Guardian!</h4>
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://isocpp.org/)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 
 
 
