@@ -82,7 +82,7 @@ Web Weaver & Reliability Guardian!</h4>
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://www.vercel.com/)
 ![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge)
-[![Zabbix-logo-RGB.png](https://i.postimg.cc/Y2dC0jmt/Zabbix-logo-RGB.png)](https://postimg.cc/MXjSr6DL)
+![Zabbix Badge](https://img.shields.io/badge/Zabbix-ff5000?logo=https://i.postimg.cc/Y2dC0jmt/Zabbix-logo-RGB.png&logoWidth=20&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
