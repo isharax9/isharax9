@@ -14,7 +14,9 @@ Web Weaver & Reliability Guardian!</h4>
 
 <a href="https://github.com/isharax9">
   <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC9a6twL0Sz8YFf992vfzKLQ?&label=YouTube%20Sub%20Count&style=for-the-badge"  alt="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1"/>
 </a>
+
 
 
 </div>
@@ -80,7 +82,7 @@ Web Weaver & Reliability Guardian!</h4>
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)](https://www.vercel.com/)
 ![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=for-the-badge)
-[![Zabbix](https://img.shields.io/badge)](https://www.zabbix.com/)
+[![Zabbix-logo-RGB.png](https://i.postimg.cc/Y2dC0jmt/Zabbix-logo-RGB.png)](https://postimg.cc/MXjSr6DL)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -153,6 +155,9 @@ Web Weaver & Reliability Guardian!</h4>
 
 [![TryHackMe-batch](https://tryhackme-badges.s3.amazonaws.com/macknight141.png)](https://tryhackme.com/p/macknight141)
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=2e751e58353f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
+
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/isharax9)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
