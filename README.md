@@ -14,9 +14,10 @@ Web Weaver & Reliability Guardian!</h4>
 
 <a href="https://github.com/isharax9">
   <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC9a6twL0Sz8YFf992vfzKLQ?&label=YouTube%20Sub%20Count&style=for-the-badge"  alt="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1"/>
 </a>
-
+<a href="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1">
+<img src="https://img.shields.io/youtube/channel/subscribers/UC9a6twL0Sz8YFf992vfzKLQ?&label=YouTube%20Sub%20Count&style=for-the-badge"  alt="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1"/>
+</a>
 
 
 </div>
