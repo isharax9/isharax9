@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h1> Hi, I'm Ishara Lakshitha</h1>
   <h4 align="center">Full Stack SE Explorer 🌱 | 
-Web Weaver & Reliability Guardian!</h4>
+Web Weaver & Reliability Guardian!🥷</h4>
   <h4 align="center">Currently works as a Associate Tech-Ops Engineer</h4>
 </div>
 
