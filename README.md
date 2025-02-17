@@ -23,7 +23,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 </div>
 
 - 👀 I'm interested in native web application development, Flutter and React application development.
-- 🌱 Currently learning OpenTelemetry & Grafana.
+- 🌱 Currently learning Playwright.
 - 💞️ Love to Testing, Debugging, Optimizing & Cyber Security Enthusiast.
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
@@ -178,7 +178,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isharax9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=isharax9&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=isharax9)](https://git.io/streak-stats)
 
 
 ###### (badge stats are updating realtime)
