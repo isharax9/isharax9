@@ -23,7 +23,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 </div>
 
 - 👀 I'm interested in native web application development, Flutter and React application development.
-- 🌱 Currently learning nothing.
+- 🌱 Currently learning nothing(Playing LAst of Us part 2).
 - 💞️ Love to Testing, Debugging, Optimizing & Cyber Security Enthusiast.
 - 📫 You can reach me via LinkedIn or shoot a mail, if you have any further questions. I'm happy to help!
 
