@@ -179,7 +179,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isharax9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=isharax9" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=isharax9&theme=dark" alt="GitHub Streak" /></a>
 
 
 ###### (badge stats are updating realtime)
