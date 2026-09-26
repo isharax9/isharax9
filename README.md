@@ -16,10 +16,10 @@ Web Weaver & Reliability Guardian!🥷</h4>
   <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
 </a>
 <a href="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
+  <img src="https://img.shields.io/badge/YouTube%20Sub%20Count-214-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Sub Count"/>
 </a>
 <a href="https://www.tiktok.com/@mac_knight141">
-  <img src="https://img.shields.io/badge/TikTok-Followers-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
+  <img src="https://img.shields.io/badge/TikTok%20Followers-8.04K-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
 </a>
 
 </div>
@@ -180,7 +180,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=isharax9&theme=dark)](https://github.com/isharax9/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-sand-five.vercel.app/?user=isharax9&theme=dark)](https://github.com/isharax9/github-readme-streak-stats)
 
 
 ###### (badge stats are updating realtime)
