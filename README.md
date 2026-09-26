@@ -16,9 +16,11 @@ Web Weaver & Reliability Guardian!🥷</h4>
   <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
 </a>
 <a href="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC9a6twL0Sz8YFf992vfzKLQ?&label=YouTube%20Sub%20Count&style=for-the-badge"  alt="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1"/>
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
 </a>
-
+<a href="https://www.tiktok.com/@mac_knight141">
+  <img src="https://img.shields.io/badge/TikTok-Followers-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
+</a>
 
 </div>
 
@@ -163,6 +165,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/isharax9)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@macstudyroom)
+[![TikTok Badge](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff&style=for-the-badge)](https://www.tiktok.com/@mac_knight141)
 [![Spotify-batch](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aclfdgel1ubi2fmatnhfx2pix)
 [![Twitter-batch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isharax9)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:isharax9@gmail.com)
@@ -177,7 +180,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
 
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-sand-five.vercel.app/?user=isharax9&theme=dark)](https://github.com/isharax9/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isharax9&theme=dark)](https://github.com/isharax9/github-readme-streak-stats)
 
 
 ###### (badge stats are updating realtime)
