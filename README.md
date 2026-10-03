@@ -16,7 +16,7 @@ Web Weaver & Reliability Guardian!🥷</h4>
   <img src="https://komarev.com/ghpvc/?username=isharax9&label=Github%20Profile%20Views&color=0080ff&style=for-the-badge" alt="GitHub Profile Views">
 </a>
 <a href="https://www.youtube.com/channel/UC9a6twL0Sz8YFf992vfzKLQ?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/YouTube%20Sub%20Count-214-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Sub Count"/>
+  <img src="https://img.shields.io/badge/YouTube%20Sub%20Count-215-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Sub Count"/>
 </a>
 <a href="https://www.tiktok.com/@mac_knight141">
   <img src="https://img.shields.io/badge/TikTok%20Followers-8.04K-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
