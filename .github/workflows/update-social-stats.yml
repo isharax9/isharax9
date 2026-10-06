@@ -24,6 +24,7 @@ jobs:
       - name: Run updater script
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 scripts/update_social_stats.py
 
@@ -31,9 +32,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md data/views.json
           if ! git diff-index --quiet HEAD; then
-            git commit -m "chore(stats): update YouTube and TikTok counts [skip ci]"
+            git commit -m "chore(stats): update stats and view count [skip ci]"
             git push
           else
             echo "No changes in social stats."

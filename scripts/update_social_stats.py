@@ -3,6 +3,7 @@ import os
 import re
 import urllib.request
 import json
+import subprocess
 
 def format_count(count_num):
     if count_num >= 1_000_000:
@@ -12,6 +13,77 @@ def format_count(count_num):
     if count_num >= 1_000:
         return f"{count_num / 1_000:.2f}".rstrip('0').rstrip('.') + "K"
     return str(count_num)
+
+def get_github_token():
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if token:
+        return token
+    try:
+        res = subprocess.run(["gh", "auth", "token"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        if res.returncode == 0 and res.stdout.strip():
+            return res.stdout.strip()
+    except Exception:
+        pass
+    return None
+
+def get_profile_views():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(script_dir, "..", "data")
+    os.makedirs(data_dir, exist_ok=True)
+    views_file = os.path.join(data_dir, "views.json")
+
+    base_views = 8888
+    start_date = "2026-10-07"
+    daily_views = {}
+    total_views = base_views
+
+    if os.path.exists(views_file):
+        try:
+            with open(views_file, "r", encoding="utf-8") as f:
+                saved = json.load(f)
+                base_views = saved.get("base_views", base_views)
+                start_date = saved.get("start_date", start_date)
+                daily_views = saved.get("daily_views", {})
+                total_views = saved.get("total_views", base_views)
+        except Exception as e:
+            print(f"Error loading views.json: {e}")
+
+    token = get_github_token()
+    if token:
+        try:
+            url = "https://api.github.com/repos/isharax9/isharax9/traffic/views"
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "Authorization": f"Bearer {token}",
+                    "Accept": "application/vnd.github+json",
+                    "User-Agent": "GitHub-Stats-Updater"
+                }
+            )
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                for entry in data.get("views", []):
+                    entry_date = entry.get("timestamp", "")[:10]
+                    count = entry.get("count", 0)
+                    if entry_date and entry_date >= start_date:
+                        daily_views[entry_date] = max(daily_views.get(entry_date, 0), count)
+
+                total_views = base_views + sum(daily_views.values())
+
+                with open(views_file, "w", encoding="utf-8") as f:
+                    json.dump({
+                        "base_views": base_views,
+                        "start_date": start_date,
+                        "daily_views": daily_views,
+                        "total_views": total_views
+                    }, f, indent=2)
+                print(f"Profile views updated: {total_views} (base: {base_views}, new: {sum(daily_views.values())})")
+        except Exception as e:
+            print(f"GitHub Traffic API request failed: {e}")
+    else:
+        print("No GitHub token available; using existing total_views.")
+
+    return format_count(total_views)
 
 def get_youtube_subs():
     # 1. Try YouTube Data API if key exists in env
@@ -73,11 +145,26 @@ def update_readme():
 
     yt_subs = get_youtube_subs()
     tiktok_followers = get_tiktok_followers()
+    profile_views = get_profile_views()
 
     print(f"YouTube Subscribers: {yt_subs}")
     print(f"TikTok Followers: {tiktok_followers}")
+    print(f"Profile Views: {profile_views}")
 
     updated = content
+
+    if profile_views:
+        # Match any Komarev or Shields profile views badge in README
+        updated = re.sub(
+            r'https://komarev\.com/ghpvc/\?[^"\s]+',
+            f'https://img.shields.io/badge/Github%20Profile%20Views-{profile_views}-0080ff?style=for-the-badge&logo=github&logoColor=white',
+            updated
+        )
+        updated = re.sub(
+            r'img\.shields\.io/badge/Github%20Profile%20Views-[^-\s]+-0080ff',
+            f'img.shields.io/badge/Github%20Profile%20Views-{profile_views}-0080ff',
+            updated
+        )
 
     if yt_subs:
         # Match any YouTube Sub Count badge in README
